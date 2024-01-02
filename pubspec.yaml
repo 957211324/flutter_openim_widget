@@ -23,8 +23,8 @@ dependencies:
   just_audio: ^0.9.29
   lottie: ^1.4.3
   permission_handler: ^10.1.0
-  extended_text_field: ^11.0.1
-#  extended_image: ^6.3.1
+  extended_text_field: ^12.1.0
+  #  extended_image: ^6.3.1
 #  focus_detector: ^2.0.1
   visibility_detector: ^0.3.3
   sprintf: ^7.0.0
